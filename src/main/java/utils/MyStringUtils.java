@@ -9,7 +9,9 @@ public class MyStringUtils {
     }
 	
 	
-	
+	public static void autreMethodeQuiSertARienJustePourFaireGenreJAiModifieLeProgramme() {
+		System.out.println("non");
+	}
 	
 
 	public static void methodeQuiSertARienJustePourFaireGenreJAiModifieLeProgramme() {
