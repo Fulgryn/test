@@ -7,4 +7,12 @@ public class MyStringUtils {
         }
         return false;
     }
+	
+	
+	
+	
+
+	public static void methodeQuiSertARienJustePourFaireGenreJAiModifieLeProgramme() {
+		System.out.println("oui");
+	}
 }
