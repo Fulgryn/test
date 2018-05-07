@@ -8,9 +8,9 @@ public class MyStringUtils {
         return false;
     }
 	
-	
-	
-	
+	public static void methodeQuiSertARienJustePourFaireUnConflit() {
+		System.out.println("CONFLIIIIIT");
+	}
 
 	public static void methodeQuiSertARienJustePourFaireGenreJAiModifieLeProgramme() {
 		System.out.println("oui");
